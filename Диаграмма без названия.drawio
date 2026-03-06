@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Диаграмма декомпозиции" id="LmYgxAoqVCNj0znNUCiB">
-    <mxGraphModel dx="2422" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uRcNUMwnM0H5VwPojv4G-0" />
         <mxCell id="uRcNUMwnM0H5VwPojv4G-1" parent="uRcNUMwnM0H5VwPojv4G-0" />
@@ -268,7 +268,7 @@
         </mxCell>
         <mxCell id="FPaT0xpY3qNcr_A1nDyc-7" connectable="0" parent="FPaT0xpY3qNcr_A1nDyc-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;labelBackgroundColor=none;" value="&lt;span&gt;Архитектурная&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;документация&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" y="1" as="geometry">
-            <mxPoint x="-151" y="-35" as="offset" />
+            <mxPoint x="-151" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tuqDw4AIKS4U7EGbmPQ4-2" edge="1" parent="uRcNUMwnM0H5VwPojv4G-1" source="VoS_HzCB_3tm7NnKiXms-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VoS_HzCB_3tm7NnKiXms-10">
