@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Диаграмма декомпозиции" id="LmYgxAoqVCNj0znNUCiB">
-    <mxGraphModel dx="2040" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uRcNUMwnM0H5VwPojv4G-0" />
         <mxCell id="uRcNUMwnM0H5VwPojv4G-1" parent="uRcNUMwnM0H5VwPojv4G-0" />
@@ -186,7 +186,7 @@
         </mxCell>
         <mxCell id="LZHh38VQyb6fr6V-WekE-4" connectable="0" parent="LZHh38VQyb6fr6V-WekE-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Исходный код" vertex="1">
           <mxGeometry relative="1" x="-0.1169" as="geometry">
-            <mxPoint x="104" as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VoS_HzCB_3tm7NnKiXms-11" parent="79EpzwXGr0t5TKIdbGHG-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="Разработка" vertex="1">
