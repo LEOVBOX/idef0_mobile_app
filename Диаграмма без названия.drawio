@@ -408,7 +408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Диаграмма декомпозиции А1" id="P4AP5-rPSC49lSlAPKXK">
-    <mxGraphModel dx="2187" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="ePws2xdL9eaNU8MO-Wbq-0" />
         <mxCell id="ePws2xdL9eaNU8MO-Wbq-1" parent="ePws2xdL9eaNU8MO-Wbq-0" />
@@ -431,7 +431,7 @@
         <mxCell id="ePws2xdL9eaNU8MO-Wbq-5" parent="ePws2xdL9eaNU8MO-Wbq-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="Cбор требований заказчика" vertex="1">
           <mxGeometry height="80" width="120" as="geometry" />
         </mxCell>
-        <mxCell id="ePws2xdL9eaNU8MO-Wbq-6" parent="ePws2xdL9eaNU8MO-Wbq-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A12" vertex="1">
+        <mxCell id="ePws2xdL9eaNU8MO-Wbq-6" parent="ePws2xdL9eaNU8MO-Wbq-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A11" vertex="1">
           <mxGeometry height="30" width="30" x="90" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ePws2xdL9eaNU8MO-Wbq-7" connectable="0" parent="ePws2xdL9eaNU8MO-Wbq-1" style="group" value="" vertex="1">
